@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AJE_Client_Server</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video_view">VideoView</string>
+</resources>
